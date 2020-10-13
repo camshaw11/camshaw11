@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <samp>
     :wave: Hey, I'm Cam :wave:
     <br><br>Recently I gained the technical, cognitive and communicative skills to
