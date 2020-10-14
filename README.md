@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <samp> -->
-    :wave: Hey, I'm Cam :wave:
+    <h1> :wave: Hey, I'm Cam :wave: </h1>
     <br><br>Recently I gained the technical, cognitive and communicative skills to
       accelerate from a beginner to a junior web developer at Enspiral Dev Academy in Wellington, NZ!
     <br><br>I am a Full Stack Software Developer wanting to join a great team. :sparkles:
