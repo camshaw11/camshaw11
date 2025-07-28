@@ -6,5 +6,5 @@
     <br><br> :point_right: visit my portfolio website here (web design / frontend) https://cmsh.me
     <br><br> :point_right: visit my blog website for Dev Academy here https://camshaw11.github.io/ -->
     <br><br> Please get in touch :point_right: email me @ cameronshaw95@gmail.com
-    <br><br> Find me on LinkedIn [https://www.linkedin.com/in/cameron-shaw-085b2614b/](https://www.linkedin.com/in/cameron-s-085b2614b/)
+    <br><br> Find me on LinkedIn https://www.linkedin.com/in/cameron-s-085b2614b/
 </p>
